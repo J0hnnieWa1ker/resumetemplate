@@ -1,94 +1,146 @@
 let resumeData = {
   "imagebaseurl":"https://techonoeticsclub.github.io/",
-  "name": "John Doe",
-  "role": "Frontend Developer",
-  "linkedinId":"Your LinkedIn Id",
-  "skypeid": "Your skypeid",
-  "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+  "name": "J0hnnie Wa1ker",
+  "role": "DevOps | Drones | Photos",
+  "roleDescription": "",
   "socialLinks":[
       {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/",
+        "url":"https://www.linkedin.com/in/j0hnniewa1ker",
         "className":"fa fa-linkedin"
       },
       {
         "name":"github",
-        "url":"http://github.com/",
+        "url":"https://github.com/j0hnniewa1ker",
         "className":"fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name":"quay",
+        "url":"https://quay.io/j0hnniewa1ker",
+        "className":"fa fa-linux"
+      },
+      {
+        "name":"youtube",
+        "url":"https://youtube.com/j0hnniewa1ker",
+        "className":"fa fa-youtube"
+      },
+      {
+        "name":"instagram",
+        "url":"https://instagram.com/j0hnniewa1ker",
+        "className":"fa fa-instagram"
       }
     ],
-  "aboutme":"I have finished my B.E. in Computer Science and have been working in industry for past few years.",
-  "address":"India",
-  "website":"https://www.codeclassifiers.com",
-  "education":[
-    {
-      "UniversityName":"Mumbai University",
-      "specialization":"Some specialization",
-      "MonthOfPassing":"Jan",
-      "YearOfPassing":"2018",
-      "Achievements":"Some Achievements"
-    },
-    {
-      "UniversityName":"Some University",
-      "specialization":"Some specialization",
-      "MonthOfPassing":"Jan",
-      "YearOfPassing":"2018",
-      "Achievements":"Some Achievements"
-    }
-  ],
+  "aboutme":"blaa blaa blaa",
+  "address":"",
+  "website":"",
   "work":[
     {
-      "CompanyName":"Some Company",
-      "specialization":"Some specialization",
-      "MonthOfLeaving":"Jan",
-      "YearOfLeaving":"2018",
-      "Achievements":"Some Achievements"
+      "CompanyName":"IBM",
+      "specialization":"DevOps",
+      "MonthOfLeaving":"June 2021",
+      "YearOfLeaving":"- Present",
+      "Achievements":""
     },
     {
-      "CompanyName":"Some Company",
-      "specialization":"Some specialization",
-      "MonthOfLeaving":"Jan",
-      "YearOfLeaving":"2018",
-      "Achievements":"Some Achievements"
+      "CompanyName":"Starbucks",
+      "specialization":"Application Developer",
+      "MonthOfLeaving":"Sep 2016",
+      "YearOfLeaving":"- May 2021",
+      "Achievements":""
+    },
+    {
+      "CompanyName":"Efinancial",
+      "specialization":"DevOps",
+      "MonthOfLeaving":"Nov 2014",
+      "YearOfLeaving":"- Sep 2016",
+      "Achievements":""
+    },
+    {
+      "CompanyName":"Adobe",
+      "specialization":"Release Engineer",
+      "MonthOfLeaving":"Jun 2013",
+      "YearOfLeaving":" - Oct 2014",
+      "Achievements":""
+    },
+    {
+      "CompanyName":"Microsoft",
+      "specialization":"Build Engineer",
+      "MonthOfLeaving":"Feb 2013",
+      "YearOfLeaving":" - Jun 2013",
+      "Achievements":""
     }
   ],
-  "skillsDescription":"Your skills here",
+  "skillsDescription":"",
   "skills":[
     {
-      "skillname":"HTML5"
+      "skillname":"Containers"
     },
     {
-      "skillname":"CSS"
+      "skillname":"OpenShift"
+    },
+    {
+      "skillname":"Linux"
+    },
+    {
+      "skillname":"Chef"
+    },
+    {
+      "skillname":"Ansible"
+    },
+    {
+      "skillname":"Node"
+    },
+    {
+      "skillname":"PowerShell"
+    },
+    {
+      "skillname":"Windows"
+    },
+    {
+      "skillname":"python"
+    },
+    {
+      "skillname":"fortran"
     },
     {
       "skillname":"Reactjs"
+    },
+    {
+      "skillname":"photoshop"
+    },
+    {
+      "skillname":"lightroom"
+    },
+    {
+      "skillname":"after_effects"
+    },
+    {
+      "skillname":"illustrator"
+    },
+    {
+      "skillname":"Premiere_Pro"
     }
   ],
   "portfolio":[
     {
-      "name":"project1",
-      "description":"mobileapp",
-      "imgurl":"images/portfolio/phone.jpg"
+      "name":"photo1",
+      "description":"",
+      "imgurl":"images/portfolio/e.jpg"
     },
     {
-      "name":"project2",
-      "description":"mobileapp",
-      "imgurl":"images/portfolio/project.jpg"
+      "name":"photo2",
+      "description":"",
+      "imgurl":"images/portfolio/IMG_0085.jpg"
     },
     {
-      "name":"project3",
-      "description":"mobileapp",
-      "imgurl":"images/portfolio/project2.png"
+      "name":"photo3",
+      "description":"",
+      "imgurl":"images/portfolio/IMG_7076.jpg"
     },
     {
-      "name":"project4",
-      "description":"mobileapp",
-      "imgurl":"images/portfolio/phone.jpg"
+      "name":"photo4",
+      "description":"",
+      "imgurl":"images/portfolio/DJI_0110.jpg"
     }
   ],
   "testimonials":[
