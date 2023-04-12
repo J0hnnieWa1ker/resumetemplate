@@ -36,7 +36,7 @@ let resumeData = {
   "work":[
     {
       "CompanyName":"IBM",
-      "specialization":"DevOps",
+      "specialization":"Client Engineering Technology Engineer",
       "MonthOfLeaving":"June 2021",
       "YearOfLeaving":"- Present",
       "Achievements":""
